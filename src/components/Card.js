@@ -15,7 +15,8 @@ const Card = (props) => {
               <button className='px-4 py-2 border-2 border-black bg-red-600 font-semibold rounded-full rounded-br-none hover:bg-red-800 hover:shadow-2xl'> View Details </button>
             </div>
             </div>
-            <h1 className='px-4 py-2 text-sm font-bold'>{CardData?.Name}</h1>
+            <h1 className='px-4 py-2 text-sm font-bold'>{CardData.Season >= 2 ? `${CardData.Name} | Season : ${CardData.Season}` : CardData.Name}
+</h1>
           </div>
   )
 }

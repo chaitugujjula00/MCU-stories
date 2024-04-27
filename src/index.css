@@ -1,3 +1,15 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+/* 
+--primary-100{@apply [#FF0000]};
+--primary-200{@apply [#ff5a36]}; */
+/* --primary-300:#ffc993;
+--accent-100:#FFD700;
+--accent-200:#917800;
+--text-100:#FFFFFF;
+--text-200:#e0e0e0;
+--bg-100:#000000;
+--bg-200:#161616;
+--bg-300:#2c2c2c; */
+  

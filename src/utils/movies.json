@@ -16,7 +16,10 @@
     "OscarNomination": 2,
     "Oscarwon": 0,
     "Phase": 1,
-    "image":"ironman_lob_crd_01.jpg"
+    "hrimageType":"half",
+    "image":"ironman_lob_crd_01.jpg",
+    "logo":"ironman_lob_log_def_01.png",
+    "hrimage":"ironman_lob_mas_hlf_01.jpg"
   },
   {
     "Name": "The incredible Hulk",
@@ -35,7 +38,10 @@
     "OscarNomination": 0,
     "Oscarwon": 0,
     "Phase": 1,
-    "image":"theincrediblehulk_lob_crd_01.jpg"
+    "hrimageType":"half",
+    "image":"theincrediblehulk_lob_crd_01.jpg",
+    "logo":"theincrediblehulk_lob_log_def_04.png",
+    "hrimage":"theincrediblehulk_lob_mas_hlf_01.jpg"
   },
   {
     "Name": "Iron Man 2",
@@ -54,7 +60,10 @@
     "OscarNomination": 1,
     "Oscarwon": 0,
     "Phase": 1,
-    "image":"ironman2_lob_crd_01.jpg"
+    "hrimageType":"half",
+    "image":"ironman2_lob_crd_01.jpg",
+    "logo":"ironman2_lob_log_03.png",
+    "hrimage":"ironman2_lob_mas_hlf_01_2.jpg"
   },
   {
     "Name": "Thor",
@@ -73,7 +82,10 @@
     "OscarNomination": 0,
     "Oscarwon": 0,
     "Phase": 1,
-    "image":"thor_lob_crd_01.jpg"
+    "hrimageType":"half",
+    "image":"thor_lob_crd_01.jpg",
+    "logo":"thor_lob_log_def_03.png",
+    "hrimage":"thor_lob_mas_hlf_01_1.jpg"
   },
   {
     "Name": "Captain America: The first Avenger",
@@ -92,7 +104,10 @@
     "OscarNomination": 0,
     "Oscarwon": 0,
     "Phase": 1,
-    "image":"captainamerica_lob_crd_01.jpg"
+    "hrimageType":"half",
+    "image":"captainamerica_lob_crd_01.jpg",
+    "logo":"captainamerica_lob_log_def_01.png",
+    "hrimage":"captainamericathefirstavenger_lob_mas_hlf_01_3.jpg"
   },
   {
     "Name": "Marvel's the Avengers",
@@ -111,7 +126,10 @@
     "OscarNomination": 1,
     "Oscarwon": 0,
     "Phase": 1,
-    "image":"theavengers_lob_crd_01.jpg"
+    "hrimageType":"half",
+    "image":"theavengers_lob_crd_01.jpg",
+    "logo":"theavengers_lob_log_03.png",
+    "hrimage":"theavengers_lob_mas_hlf_01.jpg"
   },
   {
     "Name": "Iron Man 3",
@@ -130,7 +148,10 @@
     "OscarNomination": 1,
     "Oscarwon": 0,
     "Phase": 2,
-    "image":"ironman3_lob_crd_01.jpg"
+    "hrimageType":"half",
+    "image":"ironman3_lob_crd_01.jpg",
+    "logo":"ironman3_lob_log_03.png",
+    "hrimage":"ironman3_lob_mas_hlf_01_2.jpg"
   },
   {
     "Name": "Thor: The dark world",
@@ -149,7 +170,10 @@
     "OscarNomination": 0,
     "Oscarwon": 0,
     "Phase": 2,
-    "image":"thorthedarkworld_lob_crd_01.jpg"
+    "hrimageType":"half",
+    "image":"thorthedarkworld_lob_crd_01.jpg",
+    "logo":"thorthedarkworld_lob_log_03.png",
+    "hrimage":"thorthedarkworld_lob_mas_hlf_01.jpg"
   },
   {
     "Name": "Captain America : The Winter Soldier",
@@ -168,7 +192,10 @@
     "OscarNomination": 1,
     "Oscarwon": 0,
     "Phase": 2,
-    "image":"captainamericathewintersoldier_lob_crd_01.jpg"
+    "hrimageType":"half",
+    "image":"captainamericathewintersoldier_lob_crd_01.jpg",
+    "logo":"captainamericathewintersoldier_lob_log_03.png",
+    "hrimage":"captainamericathewintersoldier_lob_mas_hlf_01.jpg"
   },
   {
     "Name": "Guardians Of the Galaxy",
@@ -187,7 +214,10 @@
     "OscarNomination": 2,
     "Oscarwon": 0,
     "Phase": 2,
-    "image":"guardiansofthegalaxy_lob_crd_01.jpg"
+    "hrimageType":"half",
+    "image":"guardiansofthegalaxy_lob_crd_01.jpg",
+    "logo":"guardiansofthegalaxy_lob_log_03.png",
+    "hrimage":"guardiansofthegalaxy_lob_mas_hlf_01.jpg"
   },
   {
     "Name": "Avengers : Age of ultron",
@@ -206,7 +236,10 @@
     "OscarNomination": 0,
     "Oscarwon": 0,
     "Phase": 2,
-    "image":"avengersageofultron_lob_crd_01.jpg"
+    "hrimageType":"half",
+    "image":"avengersageofultron_lob_crd_01.jpg",
+    "logo":"avengersageofultron_lob_log_03.png",
+    "hrimage":"avengersageofultron_lob_mas_hlf_01.jpg"
   },
   {
     "Name": "Ant-Man",
@@ -225,7 +258,10 @@
     "OscarNomination": 0,
     "Oscarwon": 0,
     "Phase": 2,
-    "image":"ant-man_lob_crd_01.jpg"
+    "hrimageType":"half",
+    "image":"ant-man_lob_crd_01.jpg",
+    "logo":"ant-man_lob_log_03.png",
+    "hrimage":"antman_lob_mas_hlf_01.jpg"
   },
   {
     "Name": "Captain America: Civil War",
@@ -244,7 +280,10 @@
     "OscarNomination": 0,
     "Oscarwon": 0,
     "Phase": 3,
-    "image":"captainamericacivilwar_lob_crd_01_6.jpg"
+    "hrimageType":"half",
+    "image":"captainamericacivilwar_lob_crd_01_6.jpg",
+    "logo":"captainamericacivilwar_lob_log_02_0.png",
+    "hrimage":"captainamericacivilwar_lob_mas_hlf_04.jpg"
   },
   {
     "Name": "Doctor Strange",
@@ -263,7 +302,10 @@
     "OscarNomination": 1,
     "Oscarwon": 0,
     "Phase": 3,
-    "image":"doctorstrange_lob_crd_01_9.jpg"
+    "hrimageType":"half",
+    "image":"doctorstrange_lob_crd_01_9.jpg",
+    "logo":"doctorstrange_lob_log_03.png",
+    "hrimage":"doctorstrange_lob_mas_hlf_01_3.jpg"
   },
   {
     "Name": "Guardians of the Galaxy Vol. 2",
@@ -282,7 +324,10 @@
     "OscarNomination": 1,
     "Oscarwon": 0,
     "Phase": 3,
-    "image":"guardiansofthegalaxyvol2_lob_crd_01.jpg"
+    "hrimageType":"half",
+    "image":"guardiansofthegalaxyvol2_lob_crd_01.jpg",
+    "logo":"guardiansofthegalaxyvol2_lob_log_03.png",
+    "hrimage":"guardiansofthegalaxyvol2_lob_mas_hlf_02.jpg"
   },
   {
     "Name": "Spider-Man:Homecoming",
@@ -301,7 +346,10 @@
     "OscarNomination": 0,
     "Oscarwon": 0,
     "Phase": 3,
-    "image":"spider-manhomecoming_lob_crd_02.jpg"
+    "hrimageType":"half",
+    "image":"spider-manhomecoming_lob_crd_02.jpg",
+    "logo":"spider-manhomecoming_lob_log_01.png",
+    "hrimage":"spider-manhomecoming_lob_mas_hlf_01_1.jpg"
   },
   {
     "Name": "Thor:Ragnarok",
@@ -320,7 +368,10 @@
     "OscarNomination": 0,
     "Oscarwon": 0,
     "Phase": 3,
-    "image":"thorragnarok_lob_crd_03.jpg"
+    "hrimageType":"half",
+    "image":"thorragnarok_lob_crd_03.jpg",
+    "logo":"thorragnarok_lob_log_03.png",
+    "hrimage":"thorragnarok_lob_mas_hlf_01_1.jpg"
   },
   {
     "Name": "Black Panther",
@@ -339,7 +390,10 @@
     "OscarNomination": 7,
     "Oscarwon": 3,
     "Phase": 3,
-    "image":"blackpanther_lob_crd_01_6.jpg"
+    "hrimageType":"half",
+    "image":"blackpanther_lob_crd_01_6.jpg",
+    "logo":"blackpanther_lob_log_03.png",
+    "hrimage":"blackpanther_lob_mas_hlf_01_1.jpg"
   },
   {
     "Name": "Avengers: Infinity War",
@@ -358,7 +412,10 @@
     "OscarNomination": 1,
     "Oscarwon": 0,
     "Phase": 3,
-    "image":"avengersinfinitywar_lob_crd_01.jpg"
+    "hrimageType":"half",
+    "image":"avengersinfinitywar_lob_crd_01.jpg",
+    "logo":"avengersinfinitywar_lob_log_03.png",
+    "hrimage":"avengersinfinitywar_lob_mas_hlf_01_2.jpg"
   },
   {
     "Name": "Ant-Man and the Wasp",
@@ -377,7 +434,10 @@
     "OscarNomination": 0,
     "Oscarwon": 0,
     "Phase": 3,
-    "image":"ant-manandthewasp_lob_crd_01.jpg"
+    "hrimageType":"full",
+    "image":"ant-manandthewasp_lob_crd_01.jpg",
+    "logo":"ant-manandthewasp_lob_log_03.png",
+    "hrimage":"ant-manandthewasp_lob_mas_dsk_02.jpg"
   },
   {
     "Name": "Captain-Marvel",
@@ -396,7 +456,10 @@
     "OscarNomination": 0,
     "Oscarwon": 0,
     "Phase": 3,
-    "image":"captainmarvel_lob_crd_06.jpg"
+    "hrimageType":"full",
+    "image":"captainmarvel_lob_crd_06.jpg",
+    "logo":"captainmarvel_lob_log_04.png",
+    "hrimage":"captainmarvel_lob_mas_dsk_03.jpg"
   },
   {
     "Name": "Avengers:Endgame",
@@ -415,7 +478,10 @@
     "OscarNomination": 1,
     "Oscarwon": 0,
     "Phase": 3,
-    "image":"avengersendgame_lob_crd_01.jpg"
+    "hrimageType":"full",
+    "image":"avengersendgame_lob_crd_01.jpg",
+    "logo":"avengersendgame_lob_log_def_01.png",
+    "hrimage":"avengersendgame_lob_mas_dsk_01.jpg"
   },
   {
     "Name": "Spider-Man:Far From Home",
@@ -434,7 +500,10 @@
     "OscarNomination": 0,
     "Oscarwon": 0,
     "Phase": 3,
-    "image":"spider-manfarfromhome_lob_crd_03.jpg"
+    "hrimageType":"full",
+    "image":"spider-manfarfromhome_lob_crd_03.jpg",
+    "logo":"spider-manfarfromhome_lob_log_def_02.png",
+    "hrimage":"spider-manfarfromhome_lob_mas_dsk_01.jpg"
   },
   {
     "Name": "Black Widow",
@@ -453,7 +522,10 @@
     "OscarNominations": 1,
     "OscarWins": 0,
     "Phase": 4,
-    "image":"blackwidow_lob_crd_06.jpg"
+    "hrimageType":"full",
+    "image":"blackwidow_lob_crd_06.jpg",
+    "logo":"blackwidow_lob_log_def_02.png",
+    "hrimage":"blackwidow_lob_mas_dsk_05.jpg"
   },
   {
     "Name": "Shang-Chi and the Legend of the Ten Rings",
@@ -472,7 +544,10 @@
     "OscarNominations": 0,
     "OscarWins": 0,
     "Phase": 4,
-    "image":"shangchi_lob_crd_05.jpg"
+    "hrimageType":"full",
+    "image":"shangchi_lob_crd_05.jpg",
+    "logo":"shangchi_lob_log_def_01.png",
+    "hrimage":"shangchi_lob_mas_dsk_02.jpg"
   },
   {
     "Name": "Eternals",
@@ -491,7 +566,10 @@
     "OscarNominations": 0,
     "OscarWins": 0,
     "Phase": 4,
-    "image":"eternals_lob_crd_06.jpg"
+    "hrimageType":"full",
+    "image":"eternals_lob_crd_06.jpg",
+    "logo":"eternals_lob_log_def_04.png",
+    "hrimage":"eternals_lob_mas_dsk_02.jpg"
   },
   {
     "Name": "Spider-Man: No Way Home",
@@ -510,7 +588,10 @@
     "OscarNominations": 1,
     "OscarWins": 0,
     "Phase": 4,
-    "image":"spider-mannowayhome_lob_crd_03.jpg"
+    "hrimageType":"full",
+    "image":"spider-mannowayhome_lob_crd_03.jpg",
+    "logo":"spider-man_no_way_home_lob_log_def_08.png",
+    "hrimage":"spider-mannowayhome_lob_mas_dsk_03.jpg"
   },
   {
     "Name": "Doctor Strange in the Multiverse of Madness",
@@ -529,7 +610,10 @@
     "OscarNominations": 0,
     "OscarWins": 0,
     "Phase": 4,
-    "image":"doctorstrangeinthemultiverseofmadness_lob_crd_02_3.jpg"
+    "hrimageType":"full",
+    "image":"doctorstrangeinthemultiverseofmadness_lob_crd_02_3.jpg",
+    "logo":"doctorstrangeinthemultiverseofmadness_lob_log_def_01.png",
+    "hrimage":"doctorstrangeinthemultiverseofmadness_lob_mas_dsk_06.jpg"
   },
   {
     "Name": "Thor: Love and Thunder",
@@ -548,7 +632,10 @@
     "OscarNominations": 0,
     "OscarWins": 0,
     "Phase": 4,
-    "image":"thorloveandthunder_lob_crd_03.jpg"
+    "hrimageType":"full",
+    "image":"thorloveandthunder_lob_crd_03.jpg",
+    "logo":"thorloveandthunder_lob_log_def_01.png",
+    "hrimage":"thorloveandthunder_lob_mas_dsk_02.jpg"
   },
   {
     "Name": "Black Panther: Wakanda Forever",
@@ -567,7 +654,10 @@
     "OscarNominations": 0,
     "OscarWins":0,
     "Phase": 4,
-    "image":"blackpantherwakandaforever_lob_crd_06.jpg"
+    "hrimageType":"full",
+    "image":"blackpantherwakandaforever_lob_crd_06.jpg",
+    "logo":"blackpantherwakandaforever_lob_log_def_04.png",
+    "hrimage":"blackpantherwakandaforever_lob_mas_dsk_03.jpg"
   },
   {
     "Name": "Ant-Man and the Wasp: Quantumania",
@@ -586,7 +676,10 @@
     "OscarNominations": 0,
     "OscarWins": 0,
     "Phase": 5,
-    "image":"antmanandthewaspquantumania_lob_crd_04.jpg"
+    "hrimageType":"full",
+    "image":"antmanandthewaspquantumania_lob_crd_04.jpg",
+    "logo":"antmanandthewaspquantumania_lob_log_def_02.png",
+    "hrimage":"antmanandthewaspquantumania_lob_mas_dsk_03.jpg"
   },
   {
     "Name": "Guardians of the Galaxy Vol. 3",
@@ -605,7 +698,10 @@
     "OscarNominations": 0,
     "OscarWins": 0,
     "Phase": 5,
-    "image":"guardiansofthegalaxyvolume3_lob_crd_03.jpg"
+    "hrimageType":"full",
+    "image":"guardiansofthegalaxyvolume3_lob_crd_03.jpg",
+    "logo":"guardiansofthegalaxyvolume3_lob_log_def_02.png",
+    "hrimage":"guardiansofthegalaxyvolume3_lob_mas_dsk_03.jpg"
   },
   {
     "Name": "The Marvels",
@@ -624,7 +720,10 @@
     "OscarNominations": "Not Available",
     "OscarWins": "Not Available",
     "Phase": 5,
-    "image":"themarvels_lob_crd_05.jpg"
+    "hrimageType":"full",
+    "image":"themarvels_lob_crd_05.jpg",
+    "logo":"themarvels_lob_log_def_02.png",
+    "hrimage":"themarvels_lob_mas_dsk_03.jpg"
   }
   
   

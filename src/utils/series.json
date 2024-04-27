@@ -12,7 +12,10 @@
         "Seasons": 1,
         "Episodes": 9,
         "Phase": 4,
-        "image": "wandavision_lob_crd_06.jpg"
+        "image": "wandavision_lob_crd_06.jpg",
+        "hrimageType":"full",
+        "logo":"wandavision_lob_log_def_01.png",
+        "hrimage":"wandavision_lob_mas_dsk_01.jpg"
       },
       {
         "Name": "The Falcon and the Winter Soldier",
@@ -27,7 +30,10 @@
         "Seasons": 1,
         "Episodes": 6,
         "Phase": 4,
-        "image": "falcws_lob_crd_03.jpg"
+        "image": "falcws_lob_crd_03.jpg",
+        "hrimageType":"half",
+        "logo":"falcws_lob_log_def_02.png",
+        "hrimage":"falcws_lob_mas_half_dsk_02.jpg"
       },
       {
         "Name": "Loki",
@@ -42,7 +48,10 @@
         "Seasons": 1,
         "Episodes": 6,
         "Phase": 4,
-        "image": "loki_lob_crd_03.jpg"
+        "image": "loki_lob_crd_03.jpg",
+        "hrimageType":"full",
+        "logo":"loki_lob_log_def_01.png",
+        "hrimage":"loki_lob_mas_dsk_04.jpg"
       },
       {
         "Name": "What If...?",
@@ -57,7 +66,10 @@
         "Seasons": 1,
         "Episodes": 9,
         "Phase": 4,
-        "image": "whatif_lob_crd_01.jpg"
+        "image": "whatif_lob_crd_01.jpg",
+        "hrimageType":"full",
+        "logo":"whatif_lob_log_def_01.png",
+        "hrimage":"whatif_lob_mas_dsk_01.jpg"
     },
     {
         "Name": "Hawkeye",
@@ -72,7 +84,10 @@
         "Seasons": 1,
         "Episodes": 6,
         "Phase": 4,
-        "image": "hawkeye_lob_crd_03.jpg"
+        "image": "hawkeye_lob_crd_03.jpg",
+        "hrimageType":"full",
+        "logo":"hawkeye_lob_log_def_01.png",
+        "hrimage":"hawkeye_lob_mas_dsk_02.jpg"
     },
     {
         "Name": "Moon Knight",
@@ -87,7 +102,10 @@
         "Seasons": 1,
         "Episodes": 6,
         "Phase": 4,
-        "image": "moonknight_lob_crd_04.jpg"
+        "image": "moonknight_lob_crd_04.jpg",
+        "hrimageType":"full",
+        "logo":"moonknight_lob_log_def_01.png",
+        "hrimage":"moonknight_lob_mas_dsk_03.jpg"
     },
     {
         "Name": "Ms. Marvel",
@@ -102,7 +120,10 @@
         "Seasons": 1,
         "Episodes": 6,
         "Phase": 4,
-        "image": "msmarvel_lob_crd_04.jpg"
+        "image": "msmarvel_lob_crd_04.jpg",
+        "hrimageType":"full",
+        "logo":"msmarvel_lob_log_def_01.png",
+        "hrimage":"msmarvel_lob_mas_dsk_01.jpg"
     },
     {
         "Name": "I Am Groot",
@@ -117,7 +138,10 @@
         "Seasons": 1,
         "Episodes": 5,
         "Phase": 4,
-        "image": "iamgroot_lob_crd_03.jpg"
+        "image": "iamgroot_lob_crd_03.jpg",
+        "hrimageType":"full",
+        "logo":"iamgroot_lob_log_def_01.png",
+        "hrimage":"iamgroot_lob_mas_dsk_03.jpg"
     },
     {
         "Name": "She-Hulk: Attorney at Law",
@@ -132,7 +156,10 @@
         "Seasons": 1,
         "Episodes": 9,
         "Phase": 4,
-        "image": "shehulk_lob_crd_03.jpg"
+        "image": "shehulk_lob_crd_03.jpg",
+        "hrimageType":"full",
+        "logo":"shehulk_lob_log_def_01.png",
+        "hrimage":"shehulk_lob_mas_dsk_06.jpg"
     },
     {
         "Name": "Secret Invasion",
@@ -147,7 +174,10 @@
         "Seasons": 1,
         "Episodes": 6,
         "Phase": 5,
-        "image": "secretinvasion_lob_crd_04.jpg"
+        "image": "secretinvasion_lob_crd_04.jpg",
+        "hrimageType":"full",
+        "logo":"secretinvasion_lob_log_def_01.png",
+        "hrimage":"secretinvasion_lob_mas_dsk_04.jpg"
     },
     {
         "Name": "I Am Groot",
@@ -162,7 +192,10 @@
         "Cast": "Vin Diesel, Bradley Cooper",
         "Episodes": 5,
         "Phase": 5,
-        "image": "iamgroots2_lob_crd_01.jpg"
+        "image": "iamgroots2_lob_crd_01.jpg",
+        "hrimageType":"full",
+        "logo":"iamgroots2_lob_log_def_02.png",
+        "hrimage":"iamgroots2_lob_mas_dsk_01.jpg"
     },
     {
         "Name": "Loki",
@@ -177,7 +210,10 @@
         "Cast": "Tom Hiddleston, Sophia Di Martino, Owen Wilson, Ke Huy Quan, Gugu Mbatha-Raw, Wunmi Mosaku, Jonathan Majors",
         "Episodes": 6,
         "Phase": 5,
-        "image": "lokis2_lob_crd_02.jpg"
+        "image": "lokis2_lob_crd_02.jpg",
+        "hrimageType":"full",
+        "logo":"lokis2_lob_log_def_01.png",
+        "hrimage":"lokis2_lob_mas_dsk_02.jpg"
     },
     {
         "Name": "What If...?",
@@ -192,7 +228,10 @@
         "Cast": "Jeffrey Wright, Lake Bell, Hayley Atwell, Rachel Weisz, Rosario Dawson",
         "Episodes": 9,
         "Phase": 4,
-        "image": "whatifs2_lob_crd_02.jpg"
+        "image": "whatifs2_lob_crd_02.jpg",
+        "hrimageType":"full",
+        "logo":"whatifs2_lob_log_def_01.png",
+        "hrimage":"whatifs2_lob_mas_dsk_02.jpg"
     },
     {
         "Name": "Echo",
@@ -207,7 +246,10 @@
         "Seasons": 1,
         "Episodes": 6,
         "Phase": 5,
-        "image": "echo_lob_crd_02.jpg"
+        "image": "echo_lob_crd_02.jpg",
+        "hrimageType":"full",
+        "logo":"echo_lob_log_def_01.png",
+        "hrimage":"echo_lob_mas_dsk_02.jpg"
     },
     {
         "Name": "X-Men '97",
@@ -222,7 +264,10 @@
         "Seasons": 1,
         "Episodes": 10,
         "Phase": 5,
-        "image": "xmen97_lob_crd_02.jpg"
+        "image": "xmen97_lob_crd_02.jpg",
+        "hrimageType":"full",
+        "logo":"xmen97-log_def-900x500.png",
+        "hrimage":"xmen97_com_mas_dsk_02.jpg"
     }            
                     
                 
